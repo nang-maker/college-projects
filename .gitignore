@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Personal and generated data
+expenses.json
+integrity.json
+
+# VS Code settings
+.vscode/
+*.code-workspace
